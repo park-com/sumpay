@@ -1,0 +1,6 @@
+obj/crypto/ripemd160.o: crypto/ripemd160.cpp \
+ /home/pskbank/SumWork/src/crypto/ripemd160.h \
+ /home/pskbank/SumWork/src/crypto/common.h
+crypto/ripemd160.cpp :
+ /home/pskbank/SumWork/src/crypto/ripemd160.h :
+ /home/pskbank/SumWork/src/crypto/common.h :
